@@ -1,0 +1,23 @@
+{
+    "student_number": "301098547",
+    "password": "123456",
+    "first_name":"Cong",
+    "last_name":"Wang",
+    "address": "521 Ave",
+    "city":"Toronto",
+    "phone_number": 6479946898,
+    "email":"cwang167@my.centennialcollege.ca",
+    "program": "Game Programming",
+    "courses": [{
+        "course_code": "308",
+        "course_section": "sec102"
+    }]
+}
+
+{
+    "course_code": "308",
+    "course_name": "Emerging Technology",
+    "section": ["sec006", "sec106"],
+    "semester": "6",
+    "students":["301098547", "888888"]
+}
